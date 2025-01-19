@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramasamy raja
+- 👋 Hi, I’m Ramasamy raja karmegam
 - 👀 I’m interested in cloud and automation
 - 🌱 I’m currently upskilling full stack devops @sloopstash
 
